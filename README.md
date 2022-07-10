@@ -1,7 +1,7 @@
 # Space-Battle
 
-A small project developed using C++ language, for subject of Algorithms and Data Structures. 
-The project called Space-Battle, simulate the battle between spaceships in a cartesian plane.
+A small project developed in C++ language, for the discipline of Algorithms and Data Structures. 
+The project called SpaceBattle, simulates the battle between spaceships in a Cartesian plane.
 
 At the beginning of the program, the user can indicate how many ships he wants to create, then it is possible to indicate the x,y values of the Cartesian plane in which the ships will be positioned, followed by the energy points of each ship.
 
